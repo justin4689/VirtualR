@@ -40,4 +40,4 @@ landing page
 image of the landing page
 ## Landing Page
 
-![Landing Page](./src/assets/landing-page.png)
+![Landing Page](./src/assets/image.png)
